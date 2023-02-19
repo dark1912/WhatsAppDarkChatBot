@@ -9,7 +9,7 @@ NOTE: DON'T MESS UP WITH INDEX.JS FILE. <br>
 $ apt update <br>
 $ apt install git nodejs -y <br>
 $ git clone https://github.com/dark1912/WhatsAppDarkChatBot <br>
-$ cd whatsapp-chatgpt <br>
+$ cd WhatsAppDarkChatBot <br>
 $ npm install <br>
 $ node index.js <br>
 
